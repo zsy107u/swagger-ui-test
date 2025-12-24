@@ -1,4 +1,5 @@
 {
+    swagger: "2.0",
     "url": "https://raw.githubusercontent.com/zsy107u/swagger-ui-test/refs/heads/main/test.yaml",
     "urls": [
         {
